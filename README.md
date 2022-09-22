@@ -17,7 +17,7 @@ The web-based user interfaces and data visualization codes are mainly modified f
 ## Run
 1. Clone the repository
 2. Run `backend_functions.py` to build and run the DBMS
-3. Run `index.py` to run the UI program through a web browser
+3. Run `index.py` to run the UI program, and open a web browser with the assigned URL to use the UI
 
 ## Demo Video
 [demo video](https://youtu.be/N0RCmNfdC8A)
