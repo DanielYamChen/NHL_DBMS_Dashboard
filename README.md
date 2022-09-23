@@ -19,7 +19,12 @@ The web-based user interfaces and data visualization codes are mainly modified f
 2. Run `backend_functions.py` to build and run the DBMS
 3. Run `index.py` to run the UI program, and open a web browser with the assigned URL to use the UI
 
+P.S. Running was tested on Windows.
+
 ## Demo Video
 [demo video](https://youtu.be/N0RCmNfdC8A)
+
+## Disclaimer
+These codes should not be copied/misused for other student assignments or final project.
 
 
